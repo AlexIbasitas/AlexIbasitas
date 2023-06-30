@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne </h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/26BGIqWh2R1fi6JDa">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/26BGIqWh2R1fi6JDa](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)">
 
 - 🔭 I’m currently working on **the development and implementation of a data collection system to reduce manual entry errors and inaccuracies by centralizing data processing from unstructured data sources and automating validation procedures.**
 
