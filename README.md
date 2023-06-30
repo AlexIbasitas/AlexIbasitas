@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available **[on Github](https://github.com/AlexIbasitas)**
 
-- 💬 Ask me about **my practical experience in backend development, my experiences at PwC transitioning a legacy database to a modern platform, my involvement at S&P Global working on the development of a data collection system, and my time at Netflix designing RESTful web services and APIs**
+- 💬 Ask me about **my practical experience in backend development, my experiences at PwC transitioning a legacy database to a modern platform, my involvement at S&P Global working on the development of a data collection system, and my time at Netflix designing RESTful web services and APIs.**
 
 - 📫 How to reach me **aibasitas1@gmail.com | 9496569591**
 
