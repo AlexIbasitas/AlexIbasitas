@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **about designing RESTful web services and APIs in Java using the Spring framework.**
 
-- 👯 I’m looking to collaborate on **opportunities involving the design and development of sophisticated backend systems. Possessing a distinct combination of academic knowledge and hands-on experience, I am highly enthusiastic about the opportunity to contribute to innovative projects that bring together unique disciplines. I am motivated to delve deeper into these multidisciplinary areas, leveraging my project-based background to contribute to cutting-edge solutions.**
+- 👯 I’m looking to collaborate on **opportunities involving the design and development of sophisticated backend systems. Possessing a distinct combination of academic knowledge and hands-on experience, I am highly enthusiastic about the opportunity to contribute to innovative projects that bring together unique disciplines. I am motivated to delve deeper into these multidisciplinary areas, leveraging my diverse background to contribute to cutting-edge solutions.**
 
 - 🤝 I’m looking for help with **mentorship and avenues that offer me the chance to grow and enhance my practical experience in backend development, while also exploring diverse aspects of the tech industry. I am eager to explore unique job roles and engage in mentorship experiences that will introduce me to new challenges, allowing me to refine my skills and broaden my expertise. I am particularly interested in connecting with experienced professionals or teams who can provide valuable guidance and help me enhance my contributions to the dynamic tech landscape.**
 
