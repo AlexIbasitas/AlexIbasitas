@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne, CA</h3>
+<h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne </h3>
+
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/26BGIqWh2R1fi6JDa">
+
 - 🔭 I’m currently working on **the development and implementation of a data collection system to reduce manual entry errors and inaccuracies by centralizing data processing from unstructured data sources and automating validation procedures.**
 
 - 🌱 I’m currently learning **about designing RESTful web services and APIs in Java using the Spring framework**
@@ -17,7 +19,5 @@
 
 - 📄 Learn more about my experiences: **[view my LinkedIn profile](https://www.linkedin.com/in/alexibasitas/)**
 
-- ⚡ Fun fact: **I love programming jokes! Let me share one with you:
-
-Why did the Java programmer teach his kid about single quotes? Because they help build character! **
+- ⚡ Fun fact: **I love programming jokes! Let me share one with you: Why did the Java programmer teach his kid about single quotes? Because they help build character! **
 
