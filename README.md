@@ -21,5 +21,6 @@
 
 - 📄 Learn more about my experiences: **[view my LinkedIn profile](https://www.linkedin.com/in/alexibasitas/)**
 
-- ⚡ Fun fact: **I love programming jokes! Let me share one with you: Why did the Java programmer teach his kid about single quotes? Because they help build character!**
+- ⚡ Fun fact: **I love programming jokes! Let me share one with you:
+Why did the Java programmer teach his kid about single quotes? Because they help build character!**
 
