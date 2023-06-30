@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne, CA </h3>
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/embed/2IudUHdI075HL02Pkk](https://github.com/AlexIbasitas/AlexIbasitas/blob/main/coding_giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://github.com/AlexIbasitas/AlexIbasitas/blob/main/coding_giphy.gif">
 
 
 
