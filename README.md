@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne, CA </h3>
+<iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **the development and implementation of a data collection system to reduce manual entry errors and inaccuracies by centralizing data processing from unstructured data sources and automating validation procedures.**
 
@@ -17,5 +18,5 @@
 
 - 📄 Learn more about my experiences: **[view my LinkedIn profile](https://www.linkedin.com/in/alexibasitas/)**
 
-- ⚡ Fun fact: **I love programming jokes! Let me share one with you: Why did the Java programmer teach his kid about single quotes? Because they help build character! **
+- ⚡ Fun fact: **I love programming jokes! Let me share one with you: Why did the Java programmer teach his kid about single quotes? Because they help build character!**
 
