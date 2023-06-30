@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne, CA </h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **the development and implementation of a data collection system to reduce manual entry errors and inaccuracies by centralizing data processing from unstructured data sources and automating validation procedures.**
