@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **the development and implementation of a data collection system to reduce manual entry errors and inaccuracies by centralizing data processing from unstructured data sources and automating validation procedures.**
 
-- 🌱 I’m currently learning **about designing RESTful web services and APIs in Java using the Spring framework**
+- 🌱 I’m currently learning **about designing RESTful web services and APIs in Java using the Spring framework.**
 
 - 👯 I’m looking to collaborate on **opportunities involving the design and development of sophisticated backend systems. Possessing a distinct combination of academic knowledge and hands-on experience, I am highly enthusiastic about the opportunity to contribute to innovative projects that bring together diverse and unique disciplines. I am motivated to delve deeper into these multidisciplinary areas, leveraging my project-based background to contribute to cutting-edge solutions.**
 
