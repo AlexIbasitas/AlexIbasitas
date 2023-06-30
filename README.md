@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne </h3>
+<h3 align="center">A passionate back-end developer, software tester, and technology consultant from Irivne, CA </h3>
 
 - 🔭 I’m currently working on **the development and implementation of a data collection system to reduce manual entry errors and inaccuracies by centralizing data processing from unstructured data sources and automating validation procedures.**
 
